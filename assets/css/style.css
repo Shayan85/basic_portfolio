@@ -3,7 +3,7 @@ body {
     margin:0;
     font-family: Arisl, Arial, Helvetica, sans-serif, 'Helvetica Neue';
     font-size: 18px;
-    background-image: url(C:\Users\Che\Downloads\dark-grey-terrazzo\dark-grey-terrazzo.png)
+    background-image: url(C:\Users\Che\Downloads\dark-grey-terrazzo\dark-grey-terrazzo.png);
 }
 .top_section{
     background: #ffffff;
@@ -11,4 +11,14 @@ body {
     width: 960px; 
     height: 60px;
     margin: 0 auto;
+}
+h1{
+    padding: 15.5px;
+    width:17%;
+    background-color:#4aaaa5;
+    text-align: center;
+    color: #ffffff;
+    font-size: 25px;
+    float: left;
+    margin: 0 0 0 245px;
 }
