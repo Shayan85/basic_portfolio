@@ -3,5 +3,12 @@ body {
     margin:0;
     font-family: Arisl, Arial, Helvetica, sans-serif, 'Helvetica Neue';
     font-size: 18px;
-    background-image: url(C:\Users\Che\Downloads\dark-grey-terrazzo\dark-grey-terrazzo)
+    background-image: url(C:\Users\Che\Downloads\dark-grey-terrazzo\dark-grey-terrazzo.png)
+}
+.top_section{
+    background: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 960px; 
+    height: 60px;
+    margin: 0 auto;
 }
