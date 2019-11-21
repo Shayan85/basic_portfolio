@@ -3,9 +3,9 @@ body {
     margin:0;
     font-family: Arisl, Arial, Helvetica, sans-serif, 'Helvetica Neue';
     font-size: 18px;
-    background-image: url(C:\Users\Che\Downloads\dark-grey-terrazzo\dark-grey-terrazzo.png);
+    background-image: url('assets/css/patterns.png');
 }
-.top_section{
+.navbar{
     background: #ffffff;
     font-family: Georgia, 'Times New Roman', Times, serif;
     width: 960px; 
@@ -14,11 +14,17 @@ body {
 }
 h1{
     padding: 15.5px;
-    width:17%;
+    width:15%;
     background-color:#4aaaa5;
     text-align: center;
     color: #ffffff;
     font-size: 25px;
     float: left;
-    margin: 0 0 0 245px;
+    margin: 0 0 0 230px;
+}
+ul {
+    margin: 0 230px 0 0;
+    width: 15%;
+    padding: 10px;
+    float: right;
 }
