@@ -32,3 +32,14 @@ li {
     float: left;
     margin-left: 25px;
 }
+li a {
+    display: block;
+    padding: 15;
+}
+.container {
+   width: 960px;
+   background-color: white;
+   color: #777777;
+   margin: 25px auto;
+   padding: 25px; 
+}
