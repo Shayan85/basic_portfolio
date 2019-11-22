@@ -99,4 +99,9 @@ input[type=submit] {
     border: none;  
 }
 
-
+/* for portfolio */
+.container img {
+    width: 250px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
